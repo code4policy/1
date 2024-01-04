@@ -1,5 +1,8 @@
 html {
-	background-color: gray;
+	background-image: url(https://assets.stickpng.com/images/5842f68fa6515b1e0ad75b22.png), linear-gradient(#a51c30, #a51c30);
+    background-position: top left, top left;
+    background-repeat: no-repeat, no-repeat;
+    background-size: 250px 250px, auto;
 }
 
 body {
